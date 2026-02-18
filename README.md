@@ -28,18 +28,18 @@ This repository demonstrates hands-on exploration of NetSuite administration con
 ### Roles Overview
 ![Roles](screenshots/day2_roles_overview.png)
 - NetSuite roles define access to records, transactions, and system features
-- Roles are customized based on job function and responsibilities
-- Supports role-based access control (RBAC) and least-privilege models
+- Roles are customized based on job function and operational responsibilities
+- Supports role-based access control (RBAC) and least-privilege access models
 
 ### Role Permissions
 ![Permissions](screenshots/day2_role_permissions.png)
 - Permissions are assigned per role with defined access levels (View, Create, Edit, Full)
 - Demonstrates granular access control and separation of duties
-- Aligns with enterprise identity governance practices
+- Aligns with enterprise identity governance and compliance practices
 
 ### Role-Based Dashboard – Role 1
 ![Dashboard Role 1](screenshots/day2_role_dashboard.png)
-- Dashboard customized for a specific role
+- Dashboard customized for a specific operational role
 - Displays role-relevant KPIs, reports, and navigation options
 - Limits exposure to unnecessary or sensitive data
 
@@ -54,4 +54,3 @@ This repository demonstrates hands-on exploration of NetSuite administration con
 - Users may be assigned multiple roles based on job responsibilities
 - Active role determines access context within NetSuite
 - Supports job rotation, dual responsibilities, and controlled privilege elevation
-
