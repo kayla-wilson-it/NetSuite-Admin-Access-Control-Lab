@@ -54,3 +54,12 @@ This repository demonstrates hands-on exploration of NetSuite administration con
 - Users may be assigned multiple roles based on job responsibilities
 - Active role determines access context within NetSuite
 - Supports job rotation, dual responsibilities, and controlled privilege elevation
+
+  ## Day 3 – Reporting and Role-Based Visibility
+
+On Day 3, we focused on operational reporting, dashboards, and record-level visibility. This demonstrates understanding of audit readiness, compliance, and role-based access in NetSuite.
+
+- **Dashboard Overview** – Shows KPIs and summary panels that provide visibility into operational data.
+- **Customer Record Detail** – Displays record-level information, highlighting least privilege and role-based access controls.
+- These screenshots reflect how administrators can interpret system data, support audit processes, and ensure proper visibility without directly configuring searches.
+
